@@ -1,4 +1,4 @@
-# Simple File Uploading With Formidable in NodeJs
+# File Uploading With Formidable in NodeJs
 
 This code is for the tutorial on simple file uploading with NodeJs, Express, and Formidable.
 
